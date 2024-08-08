@@ -1,5 +1,6 @@
 colors = ["orange","yellow","green","blue","purple"]
 colors2= ["white","black"]
+print(colors.index("yellow"))
 print(colors)
 colors.append("red") #adds a new at the end of the list
 print(colors)
