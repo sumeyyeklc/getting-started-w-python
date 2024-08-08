@@ -7,7 +7,7 @@ To learn both Python and the Git version control system, I want to start by comm
 - String
 - Lists, tuples and sets
 - Dictionaries
-- Boolean
+- Conditionals
 - Loops and iterations
 - Functions
 - Importing Modules
