@@ -1,5 +1,5 @@
 def greeting(name):
-    print("Hello" + name)
+    print("Hello " + name)
 greeting("everybody")
 
 def app_calculation(number):
